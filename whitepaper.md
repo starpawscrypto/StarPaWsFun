@@ -8,10 +8,11 @@ The project is centered around "funny dog stories," aiming to bring smiles while
 ---
 
 ## Core Information
-- **Token Symbol:** SPW  
+- **Token Symbol:** SPW
+- **Token Name:** StarPaWs
 - **Blockchain:** Solana  
 - **Contract Address:** `94Vt24i6RBXGJJX5sPhi6qzGmHA381BL4U6mGwcEBPLU`  
-- **Decimals:** 6  
+- **Decimals:** 9  
 - **Launch Date:** 22.08.2025  
 
 ---
